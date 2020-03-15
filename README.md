@@ -27,7 +27,7 @@ Homepage: https://www.flowable.org/
 
 Flowable is distributed under the Apache V2 license (http://www.apache.org/licenses/LICENSE-2.0.html).
 
-### Download
+### Downloads
 
 The Flowable downloads can be found on https://www.flowable.org/downloads.html.
 
